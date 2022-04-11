@@ -4,6 +4,7 @@ game       "gta5"
 
 version '1.0.0'
 
+author 'Hask#5283'
 
 client_scripts {
     "client/client.lua"
