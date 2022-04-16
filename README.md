@@ -1,4 +1,4 @@
-CarHud Design by:Hask#5283
+CarHud Design by: Hask#5283
 
 Credits: #Guti404 & Jaareet
 
